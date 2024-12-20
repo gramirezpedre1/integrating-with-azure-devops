@@ -1,2 +1,3 @@
 azure-do-integration-test.txt
-Doing a Commit AB#1
+Doing a --> Commit AB#1
+New branch + Pull request to complete Work Item --> Fixed AB#1
